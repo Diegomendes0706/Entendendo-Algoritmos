@@ -1,3 +1,5 @@
+Esse repositorio é baseado no livro Entendendo Algoritimos, de Aditya Bhargava
+
 this repository is based on the book Grokking Algorithms, by Aditya Bhargava
 
 
